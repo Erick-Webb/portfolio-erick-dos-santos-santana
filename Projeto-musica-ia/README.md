@@ -35,7 +35,7 @@ O objetivo final foi produzir um EP com 5 faixas inéditas, cujas letras foram g
 
 ### 4. Manual da Vida
 - Estilo: Samba de Mensagem / Motivacional
-- Arquivo: `Manual da Vida.mp3`
+- Arquivo: `Projeto-musica-ia/Manual da Vida.mp3`
 
 ### 5. Namoro de Antigamente
 - Estilo: Samba de Breque / Pagode Lúdico
