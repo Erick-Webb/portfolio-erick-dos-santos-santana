@@ -19,7 +19,7 @@ O objetivo final foi produzir um EP com 5 faixas inéditas, cujas letras foram g
 - 
 ## 🚀 Assistente Personalizado
 O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link abaixo:
-> [Link para o meu Gemini Gems]([LINK_AQUI](https://gemini.google.com/gem/75b583bec2ad/2830d9ed0737bea7))
+> [Link para o meu Gemini Gems](https://gemini.google.com/gem/75b583bec2ad/2830d9ed0737bea7))
 ---
 
 ## 🎧 Músicas Geradas
