@@ -19,28 +19,15 @@ O objetivo final foi produzir um EP com 5 faixas inéditas, cujas letras foram g
 
 ---
 
-## 🎶 Músicas Geradas
+## 🎧 Músicas Geradas
 
-### 1. Quintal do Amanhã
-- Estilo: Samba de Raiz / Partido Alto
-- Arquivo: `Quintal do Amanhã.mp3`
-
-### 2. Planeta Solidão
-- Estilo: Samba-Enredo / Pagode Romântico
-- Arquivo: `Planeta Solidão.mp3`
-
-### 3. Segredo da Paixão
-- Estilo: Pagode Romântico / Swingue
-- Arquivo: `Segredo Da Paixão.mp3`
-
-### 4. Manual da Vida
-- Estilo: Samba de Mensagem / Motivacional
-- Arquivo: `Projeto-musica-ia/Manual da Vida.mp3`
-
-### 5. Namoro de Antigamente
-- Estilo: Samba de Breque / Pagode Lúdico
-- Arquivo: `Namoro de Antigamente.mp3`
-
+| Faixa | Título | Estilo/Referência | Link do Áudio |
+|------|------|------|------|
+| 01 | Quintal do Amanhã | Samba de Raiz / Partido Alto | [Arquivo MP3](LINK_AQUI) |
+| 02 | Planeta Solidão | Samba-Enredo / Pagode Romântico | [Arquivo MP3](LINK_AQUI) |
+| 03 | Segredo da Paixão | Pagode Romântico / Swingue | [Arquivo MP3](LINK_AQUI) |
+| 04 | Manual da Vida | Samba de Mensagem / Motivacional | [Arquivo MP3](LINK_AQUI) |
+| 05 | Namoro de Antigamente | Samba de Breque / Pagode Lúdico | [Arquivo MP3](LINK_AQUI) |
 ---
 
 ## 🛠 Processo de Criação
