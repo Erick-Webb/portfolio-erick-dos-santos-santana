@@ -1,53 +1,46 @@
-🔍 SM4 - Engenharia Reversa
-📌 Descrição
+# 🔍 SM4 - Engenharia Reversa
 
-Este projeto tem como foco a aplicação de técnicas de engenharia reversa em sistemas, estruturas ou modelos já existentes. O objetivo principal é compreender seu funcionamento interno e reconstruir sua lógica por meio da análise detalhada de seus componentes e comportamentos.
+## 📌 Descrição
+Este projeto aborda a prática de engenharia reversa aplicada a sistemas, estruturas ou modelos existentes, com o objetivo de compreender seu funcionamento interno e reconstruir sua lógica por meio da análise.
 
-🎯 Objetivo
+## 🎯 Objetivo
+Analisar um sistema, modelo ou resultado já existente, identificando sua estrutura, regras, padrões e funcionamento interno utilizando conceitos de engenharia reversa.
 
-Analisar um sistema, modelo ou resultado previamente desenvolvido, identificando sua estrutura, padrões, regras e funcionamento interno, utilizando conceitos e práticas de engenharia reversa.
+## 🛠️ Tecnologias Utilizadas
+- Análise de Sistemas
+- Modelagem de Dados *(quando aplicável)*
+- Engenharia de Prompt *(quando aplicada à IA)*
+- Ferramentas de apoio à análise
 
-🛠️ Tecnologias Utilizadas
-Análise de Sistemas
-Modelagem de Dados (quando aplicável)
-Engenharia de Prompt (aplicada em projetos com IA)
-Ferramentas de apoio à análise e documentação
-🧠 Conceitos Trabalhados
-Engenharia Reversa
-Interpretação de Estruturas Existentes
-Identificação de Padrões
-Reconstrução de Lógica
-Análise de Funcionamento Interno
-📊 Conteúdo do Projeto
+## 🧠 Conceitos Trabalhados
+- Engenharia Reversa
+- Interpretação de Estruturas Existentes
+- Identificação de Padrões
+- Reconstrução de Lógica
+- Análise de Funcionamento Interno
 
-O projeto contempla:
+## 📊 Conteúdo
+- Objeto de análise *(sistema, modelo ou resultado)*
+- Etapas da análise realizada
+- Reconstrução da estrutura
+- Hipóteses levantadas
+- Resultados obtidos
 
-Objeto de análise (sistema, modelo ou resultado)
-Etapas da análise realizada
-Reconstrução da estrutura identificada
-Hipóteses levantadas durante o processo
-Resultados obtidos após validações
-🔄 Metodologia
+## 🔄 Metodologia
+1. Observação do sistema ou saída analisada  
+2. Identificação de padrões e regras  
+3. Formulação de hipóteses  
+4. Validação das hipóteses por testes  
+5. Documentação dos resultados  
 
-A metodologia utilizada foi dividida nas seguintes etapas:
+## 💡 Aprendizados
+- Desenvolvimento do pensamento analítico
+- Compreensão de sistemas complexos
+- Importância da observação detalhada
+- Aplicação prática da engenharia reversa
 
-Observação do sistema ou da saída analisada
-Identificação de padrões e regras de funcionamento
-Formulação de hipóteses sobre sua estrutura interna
-Realização de testes para validação das hipóteses
-Documentação dos resultados encontrados
-💡 Aprendizados
+## ▶️ Como Visualizar
+Abra os arquivos disponíveis neste repositório para acompanhar o processo de análise e os resultados obtidos.
 
-Durante o desenvolvimento deste projeto, foi possível aprimorar:
-
-O pensamento analítico e investigativo
-A compreensão de sistemas complexos
-A capacidade de interpretação lógica
-A importância da observação detalhada e da validação de hipóteses
-▶️ Como Visualizar
-
-Abra os arquivos disponíveis neste repositório para acompanhar todo o processo de análise, documentação e os resultados obtidos ao longo do projeto.
-
-👩‍💻 Autor
-
-Erick dos santos santana
+## 👩‍💻 Autor
+**Erick dos santos santana**
